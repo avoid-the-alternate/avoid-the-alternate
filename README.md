@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hello, I'm Reb
 
-<!--
-**avoid-the-alternate/avoid-the-alternate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+For the past ~4 years, I've been working as an **Information Security Analyst / Threat Analyst**, and I've finally decided it's time to bring some life to this GitHub.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Objective
+Right now, I'm aiming to transition into a **Red Team** role while deepening my knowledge in **AI / ML**. This space will serve as my playground for growth, experimentation, and pushing my capabilities further.
+
+---
+
+## Skills
+*To be added*
+
+---
+
+## Certifications
+*To be added*
+
+---
