@@ -1,6 +1,6 @@
 # Hello, I'm Reb
 
-For the past ~4 years, I've been working as an **Information Security Analyst / Threat Analyst**, and I've finally decided it's time to bring some life to this GitHub.
+no professional report, unless i am required to. 
 
 ---
 
