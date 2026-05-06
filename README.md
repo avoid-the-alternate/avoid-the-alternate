@@ -1,6 +1,6 @@
 # Hello, I'm Reb
 
-no professional report, unless i am required to. 
+i hate it here, but here's where the good stuff is
 
 ---
 
